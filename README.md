@@ -1,5 +1,7 @@
 # OpenAI_Components
 
+These small apps were created with React and Node.
+
 This is a list of AI Components that have been created with a third party API called OpenAI. The current list follows:
 
 1. A Chat GPT app using Node.js
